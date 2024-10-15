@@ -1,0 +1,12 @@
+update view
+user clicks profile
+user gets profile data:
+{
+how do i access the users profile
+i will use the users id 
+using the id i will fetch the users data.
+}
+i also need to make sure that the user editing is the owner
+if the userid provided matches the owner of the profile
+user clicks on edit bio button
+user edits bio
